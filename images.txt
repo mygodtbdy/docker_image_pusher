@@ -1,2 +1,2 @@
 nginx
-portainer/portainer-ce
+--platform=linux_arm64 portainer/portainer-ce
